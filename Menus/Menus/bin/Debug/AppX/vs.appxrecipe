@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>GAYLEON</Machine>
+    <WindowsUser>Sabdi</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>e3b18b99-9782-48ed-8fa1-10723b6d96fe</PackageIdentityName>
+    <RegisteredManifestChecksum>89EFA9C6173498A1A64EEA49432601378BD31FB77C682B3AD714AC72915C53C0</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>e3b18b99-9782-48ed-8fa1-10723b6d96fe_1.0.0.0_neutral__xe1gkxyc1fect</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>e3b18b99-9782-48ed-8fa1-10723b6d96fe_xe1gkxyc1fect!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>e3b18b99-9782-48ed-8fa1-10723b6d96fe</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Sabdi</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\Menus\Menus\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-26T18:46:50.863</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\Menus\Menus\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2015-02-26T18:52:58.606</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\Menus\Menus\images\logo.scale-100.png">
+      <PackagePath>images\logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T03:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\Menus\Menus\images\smalllogo.scale-100.png">
+      <PackagePath>images\smalllogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T03:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\Menus\Menus\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T03:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\Menus\Menus\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T03:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\Menus\Menus\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2015-02-26T18:55:31.916</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\Menus\Menus\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2013-07-22T03:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\Menus\Menus\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-02-26T18:46:32.564</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.16408</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.16408</FrameworkIdentity>
+      <AppxLocation>C:\Program Files\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

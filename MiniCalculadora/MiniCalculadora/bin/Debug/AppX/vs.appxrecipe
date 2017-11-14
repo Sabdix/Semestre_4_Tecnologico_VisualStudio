@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>GAYLEON</Machine>
+    <WindowsUser>Sabdi</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>0a82133f-e529-43e7-817e-0587380e57ff</PackageIdentityName>
+    <RegisteredManifestChecksum>CBCD6D415D08AFFA397A85B1AE7C26D639AAD5EEA0C6F18C6D949442B9BEEAB0</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>0a82133f-e529-43e7-817e-0587380e57ff_1.0.0.0_neutral__xe1gkxyc1fect</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>0a82133f-e529-43e7-817e-0587380e57ff_xe1gkxyc1fect!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>0a82133f-e529-43e7-817e-0587380e57ff</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Sabdi</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\MiniCalculadora\MiniCalculadora\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-13T23:53:00.327</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\MiniCalculadora\MiniCalculadora\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2015-03-13T23:52:51.801</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\MiniCalculadora\MiniCalculadora\images\logo.scale-100.png">
+      <PackagePath>images\logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T03:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\MiniCalculadora\MiniCalculadora\images\smalllogo.scale-100.png">
+      <PackagePath>images\smalllogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T03:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\MiniCalculadora\MiniCalculadora\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T03:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\MiniCalculadora\MiniCalculadora\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T03:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\MiniCalculadora\MiniCalculadora\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2015-03-14T00:09:19.898</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\MiniCalculadora\MiniCalculadora\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2013-07-22T03:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\MiniCalculadora\MiniCalculadora\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-03-13T23:52:57.647</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.16408</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.16408</FrameworkIdentity>
+      <AppxLocation>C:\Program Files\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

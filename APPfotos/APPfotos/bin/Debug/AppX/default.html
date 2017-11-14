@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>APPfotos</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.2.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.2.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.2.0/js/ui.js"></script>
+
+    <!-- APPfotos references -->
+    <link href="/css/default.css" rel="stylesheet" />
+    <script src="/js/default.js"></script>
+</head>
+<body>
+    <img id="imgFoto" src=" /images/logo.png"/>
+    <!--AppBar-->
+    <div id=" appBar1" data-win-control="WinJS.UI.AppBar"></div>
+        <button data-win-control="WinJS.UI.AppBarCommand"
+                data-win-options="{id:'cmdTakePicture',
+                label: 'Tomar Foto',
+                icon: 'camara',
+                tooltip: 'Tomar foto'}">
+        </button>
+</body>
+</html>

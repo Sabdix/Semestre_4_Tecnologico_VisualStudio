@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>GAYLEON</Machine>
+    <WindowsUser>Sabdi</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>b340d258-4ca6-4b29-97a9-26f8f390963e</PackageIdentityName>
+    <RegisteredManifestChecksum>E85C7EC363AEC46EE69C3B2AB10E5A7495FD952890D3448A7030ED56147CA8A9</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>b340d258-4ca6-4b29-97a9-26f8f390963e_1.0.0.0_neutral__xe1gkxyc1fect</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>b340d258-4ca6-4b29-97a9-26f8f390963e_xe1gkxyc1fect!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>b340d258-4ca6-4b29-97a9-26f8f390963e</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Sabdi</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Sabdi\Documents\Visual Studio 2013\Projects\Suma de 2 numeros\Suma de 2 numeros\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-17T21:15:46.843</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Sabdi\Documents\Visual Studio 2013\Projects\Suma de 2 numeros\Suma de 2 numeros\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2015-02-17T21:24:18.420</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sabdi\Documents\Visual Studio 2013\Projects\Suma de 2 numeros\Suma de 2 numeros\images\logo.scale-100.png">
+      <PackagePath>images\logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T03:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sabdi\Documents\Visual Studio 2013\Projects\Suma de 2 numeros\Suma de 2 numeros\images\smalllogo.scale-100.png">
+      <PackagePath>images\smalllogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T03:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sabdi\Documents\Visual Studio 2013\Projects\Suma de 2 numeros\Suma de 2 numeros\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T03:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sabdi\Documents\Visual Studio 2013\Projects\Suma de 2 numeros\Suma de 2 numeros\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T03:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sabdi\Documents\Visual Studio 2013\Projects\Suma de 2 numeros\Suma de 2 numeros\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2015-02-17T21:26:24.248</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sabdi\Documents\Visual Studio 2013\Projects\Suma de 2 numeros\Suma de 2 numeros\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2013-07-22T03:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sabdi\Documents\Visual Studio 2013\Projects\Suma de 2 numeros\Suma de 2 numeros\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-02-17T21:15:46.357</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.16408</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.16408</FrameworkIdentity>
+      <AppxLocation>C:\Program Files\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

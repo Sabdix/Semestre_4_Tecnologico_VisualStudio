@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Suma_de_2_numeros</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.2.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.2.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.2.0/js/ui.js"></script>
+
+    <!-- Suma_de_2_numeros references -->
+    <link href="/css/default.css" rel="stylesheet" />
+    <script src="/js/default.js"></script>
+</head>
+<body>
+    <form data-win-bind="onsubmit:submit">
+        
+        <!--Numeros-->
+        <div>
+            <label>
+                Numero 1:
+                <input id="n1" type="number" required />
+            </label>
+        </div>
+        <div>
+            <label>
+                Numero 2:
+                <input id="n2" type="number" required />
+            </label>
+        </div>
+
+        <!--Boton de Sumar-->
+        <div>
+            <button data-win-bind="onclick:click"> Sumar </button>
+        </div>
+
+        <div>
+            Suma:
+            <span data-win-bind="innerText:suma"></span>
+        </div>
+    </form>
+
+</body>
+</html>

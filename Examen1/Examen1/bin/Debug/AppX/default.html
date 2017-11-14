@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Examen1</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.2.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.2.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.2.0/js/ui.js"></script>
+
+    <!-- Examen1 references -->
+    <link href="/css/default.css" rel="stylesheet" />
+    <script src="/js/default.js"></script>
+</head>
+<body>
+    <div>
+        <label>
+            Incersion de Numero
+            <input id="n" type="number" required />
+        </label>
+    </div>
+
+    <div>
+        <button data-win-bind="onclick:click"> Verificar y Sumar</button>
+    </div>
+
+    <div>
+        Suma:
+        <span data-win-bind="innerText:suma"></span>
+    </div>
+</body>
+</html>

@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "MiniCalculadora", "MiniCalculadora\MiniCalculadora.jsproj", "{0A82133F-E529-43E7-817E-0587380E57FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A82133F-E529-43E7-817E-0587380E57FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A82133F-E529-43E7-817E-0587380E57FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A82133F-E529-43E7-817E-0587380E57FF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0A82133F-E529-43E7-817E-0587380E57FF}.Debug|ARM.ActiveCfg = Debug|ARM
+		{0A82133F-E529-43E7-817E-0587380E57FF}.Debug|ARM.Build.0 = Debug|ARM
+		{0A82133F-E529-43E7-817E-0587380E57FF}.Debug|ARM.Deploy.0 = Debug|ARM
+		{0A82133F-E529-43E7-817E-0587380E57FF}.Debug|x64.ActiveCfg = Debug|x64
+		{0A82133F-E529-43E7-817E-0587380E57FF}.Debug|x64.Build.0 = Debug|x64
+		{0A82133F-E529-43E7-817E-0587380E57FF}.Debug|x64.Deploy.0 = Debug|x64
+		{0A82133F-E529-43E7-817E-0587380E57FF}.Debug|x86.ActiveCfg = Debug|x86
+		{0A82133F-E529-43E7-817E-0587380E57FF}.Debug|x86.Build.0 = Debug|x86
+		{0A82133F-E529-43E7-817E-0587380E57FF}.Debug|x86.Deploy.0 = Debug|x86
+		{0A82133F-E529-43E7-817E-0587380E57FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A82133F-E529-43E7-817E-0587380E57FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A82133F-E529-43E7-817E-0587380E57FF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{0A82133F-E529-43E7-817E-0587380E57FF}.Release|ARM.ActiveCfg = Release|ARM
+		{0A82133F-E529-43E7-817E-0587380E57FF}.Release|ARM.Build.0 = Release|ARM
+		{0A82133F-E529-43E7-817E-0587380E57FF}.Release|ARM.Deploy.0 = Release|ARM
+		{0A82133F-E529-43E7-817E-0587380E57FF}.Release|x64.ActiveCfg = Release|x64
+		{0A82133F-E529-43E7-817E-0587380E57FF}.Release|x64.Build.0 = Release|x64
+		{0A82133F-E529-43E7-817E-0587380E57FF}.Release|x64.Deploy.0 = Release|x64
+		{0A82133F-E529-43E7-817E-0587380E57FF}.Release|x86.ActiveCfg = Release|x86
+		{0A82133F-E529-43E7-817E-0587380E57FF}.Release|x86.Build.0 = Release|x86
+		{0A82133F-E529-43E7-817E-0587380E57FF}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>GAYLEON</Machine>
+    <WindowsUser>Sabdi</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>36ca5a96-846d-4d56-873e-8658fc3fc7ca</PackageIdentityName>
+    <RegisteredManifestChecksum>AEFA942118346C506887A3207CD6BBC458B2A467EF3D615D8103233FD047A4BC</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>36ca5a96-846d-4d56-873e-8658fc3fc7ca_1.0.0.0_neutral__xe1gkxyc1fect</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>36ca5a96-846d-4d56-873e-8658fc3fc7ca_xe1gkxyc1fect!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>36ca5a96-846d-4d56-873e-8658fc3fc7ca</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Sabdi</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\Practica CyV\Practica CyV\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-11T18:27:56.680</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\Practica CyV\Practica CyV\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2015-03-11T19:41:00.522</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\Practica CyV\Practica CyV\images\logo.scale-100.png">
+      <PackagePath>images\logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T03:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\Practica CyV\Practica CyV\images\smalllogo.scale-100.png">
+      <PackagePath>images\smalllogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T03:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\Practica CyV\Practica CyV\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T03:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\Practica CyV\Practica CyV\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T03:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\Practica CyV\Practica CyV\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2015-03-11T19:53:15.086</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\Practica CyV\Practica CyV\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2015-03-11T20:06:35.023</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\Practica CyV\Practica CyV\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-03-11T18:27:53.559</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.16408</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.16408</FrameworkIdentity>
+      <AppxLocation>C:\Program Files\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

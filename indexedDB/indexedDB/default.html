@@ -1,0 +1,78 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>indexedDB</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.2.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.2.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.2.0/js/ui.js"></script>
+
+    <!-- indexedDB references -->
+    <link href="/css/default.css" rel="stylesheet" />
+    <script src="/js/default.js"></script>
+    <script src="/js/indexedDbDataSource.js"></script>
+
+</head>
+<body>
+    <div id="plantillaMateria" data-win-control = "WinJS.Binding.Template">
+        <div class="materiaItem">
+            ID: <span data-win-bind="innerText:id"></span>
+            <br />
+            Nombre: <span data-win-bind="innerText:nombre"></span>
+            <br />
+            Semestre: <span data-win-bind="innerText:semestre"></span>
+        </div>
+    </div>
+
+    <div>
+        <label>Semestre</label>
+        <select id="selectSemestre">
+            <option>Todos</option>
+            <option>1</option>
+            <option>2</option>
+            <option>3</option>
+            <option>4</option>
+            <option>5</option>
+            <option>6</option>
+            <option>7</option>
+            <option>8</option>
+
+        </select>
+    </div>
+
+    <div id="listaMaterias" data-win-control = "WinJS.UI.ListView" 
+         data-win-options="{
+            itemTemplate: select('#plantillaMateria'),
+            selectMode: 'single'
+            }"></div>
+
+
+    <form id="formularioAgregar">
+        <fieldset>
+            <legend>Agregar</legend>
+            <div>
+                <label>Nombre</label>
+                <input id="inputNombre" required />
+                <label>Semestre</label>
+                <select id="selectSemestreMateria">
+                    <option>Todos</option>
+                    <option>1</option>
+                    <option>2</option>
+                    <option>3</option>
+                    <option>4</option>
+                    <option>5</option>
+                    <option>6</option>
+                    <option>7</option>
+                    <option>8</option>
+                </select>
+                <button>Agregar</button>
+            </div>
+        </fieldset>
+    </form>
+
+    <button id="borrarTodas">Borrar Todas</button>
+    <button id="borrar">Borrar Materia</button>
+</body>
+</html>

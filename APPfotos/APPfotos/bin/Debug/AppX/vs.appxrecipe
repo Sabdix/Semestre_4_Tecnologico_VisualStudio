@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>GAYLEON</Machine>
+    <WindowsUser>Sabdi</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>84f84305-536a-45b9-b9a0-8b02953f34fe</PackageIdentityName>
+    <RegisteredManifestChecksum>18D3D643B4449070BA35B04906F2CA491131587B8784DF0671607FE254A78979</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>84f84305-536a-45b9-b9a0-8b02953f34fe_1.0.0.0_neutral__xe1gkxyc1fect</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>84f84305-536a-45b9-b9a0-8b02953f34fe_xe1gkxyc1fect!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>84f84305-536a-45b9-b9a0-8b02953f34fe</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Sabdi</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Sabdi\Documents\Visual Studio 2013\Projects\APPfotos\APPfotos\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-29T18:56:21.825</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Sabdi\Documents\Visual Studio 2013\Projects\APPfotos\APPfotos\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2015-01-30T17:06:55.428</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sabdi\Documents\Visual Studio 2013\Projects\APPfotos\APPfotos\images\logo.scale-100.png">
+      <PackagePath>images\logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T03:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sabdi\Documents\Visual Studio 2013\Projects\APPfotos\APPfotos\images\smalllogo.scale-100.png">
+      <PackagePath>images\smalllogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T03:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sabdi\Documents\Visual Studio 2013\Projects\APPfotos\APPfotos\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T03:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sabdi\Documents\Visual Studio 2013\Projects\APPfotos\APPfotos\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T03:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sabdi\Documents\Visual Studio 2013\Projects\APPfotos\APPfotos\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2015-01-30T17:08:37.710</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sabdi\Documents\Visual Studio 2013\Projects\APPfotos\APPfotos\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2015-01-30T17:02:39.114</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sabdi\Documents\Visual Studio 2013\Projects\APPfotos\APPfotos\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-01-29T18:56:20.498</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.16408</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.16408</FrameworkIdentity>
+      <AppxLocation>C:\Program Files\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

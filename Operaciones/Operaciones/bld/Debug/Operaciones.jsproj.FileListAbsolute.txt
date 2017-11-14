@@ -1,0 +1,15 @@
+C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\Operaciones\Operaciones\bin\Debug\ReverseMap\resources.pri
+C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\Operaciones\Operaciones\bin\Debug\AppxManifest.xml
+C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\Operaciones\Operaciones\bin\Debug\Operaciones.build.appxrecipe
+C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\Operaciones\Operaciones\bld\Debug\priconfig.xml
+C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\Operaciones\Operaciones\bld\Debug\priconfig.xml.intermediate
+C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\Operaciones\Operaciones\bld\Debug\layout.resfiles
+C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\Operaciones\Operaciones\bld\Debug\layout.resfiles.intermediate
+C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\Operaciones\Operaciones\bld\Debug\resources.resfiles
+C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\Operaciones\Operaciones\bld\Debug\resources.resfiles.intermediate
+C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\Operaciones\Operaciones\bld\Debug\pri.resfiles
+C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\Operaciones\Operaciones\bld\Debug\pri.resfiles.intermediate
+C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\Operaciones\Operaciones\bld\Debug\qualifiers.txt
+C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\Operaciones\Operaciones\bld\Debug\qualifiers.txt.intermediate
+C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\Operaciones\Operaciones\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\Operaciones\Operaciones\bld\Debug\ProjectArchitectures.txt

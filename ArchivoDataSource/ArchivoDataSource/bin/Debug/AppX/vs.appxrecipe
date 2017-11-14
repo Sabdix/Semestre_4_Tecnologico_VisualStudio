@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>FORERRUNNER</Machine>
+    <WindowsUser>Sabdi</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>2f2f86d0-63bd-42d9-a1a6-c526606a059f</PackageIdentityName>
+    <RegisteredManifestChecksum>7C44A58E938023E4B1D0ED5B4C50315696651D64A3FBE80865ADA2668273F70B</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>2f2f86d0-63bd-42d9-a1a6-c526606a059f_1.0.0.0_neutral__xe1gkxyc1fect</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>2f2f86d0-63bd-42d9-a1a6-c526606a059f_xe1gkxyc1fect!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>2f2f86d0-63bd-42d9-a1a6-c526606a059f</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Sabdi</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\ArchivoDataSource\ArchivoDataSource\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-21T17:32:56.000</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\ArchivoDataSource\ArchivoDataSource\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2015-04-22T17:32:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\ArchivoDataSource\ArchivoDataSource\images\logo.scale-100.png">
+      <PackagePath>images\logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T03:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\ArchivoDataSource\ArchivoDataSource\images\smalllogo.scale-100.png">
+      <PackagePath>images\smalllogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T03:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\ArchivoDataSource\ArchivoDataSource\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T03:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\ArchivoDataSource\ArchivoDataSource\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T03:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\ArchivoDataSource\ArchivoDataSource\js\archivo.js">
+      <PackagePath>js\archivo.js</PackagePath>
+      <Modified>2015-04-21T20:16:55.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\ArchivoDataSource\ArchivoDataSource\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2015-04-22T17:45:11.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\ArchivoDataSource\ArchivoDataSource\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2013-07-22T03:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\ArchivoDataSource\ArchivoDataSource\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-04-21T17:32:48.000</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.16408</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.16408</FrameworkIdentity>
+      <AppxLocation>C:\Program Files\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

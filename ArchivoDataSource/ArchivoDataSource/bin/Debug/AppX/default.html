@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>ArchivoDataSource</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.2.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.2.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.2.0/js/ui.js"></script>
+
+    <!-- ArchivoDataSource references -->
+    <link href="/css/default.css" rel="stylesheet" />
+    <script src="/js/default.js"></script>
+    <script src="/js/archivo.js"></script>
+</head>
+<body>
+    <div id="tareas" data-win-control="WinJS.Binding.Template">
+        <div class="tareasItem">
+            <span data-win-bind="innerText:nombre"></span>
+        </div>
+    </div>
+
+    <div id="listaTareas" data-win-control="WinJS.UI.ListView"
+         data-win-options="{
+            layout:{type: WinJS.UI.ListLayout},
+            itemTemplate: select('#tareas'),
+         selectionMode:'single'
+         }"></div>
+
+    <form id="formulario">
+        <fieldset>
+            <legend>Manipular Tareas</legend>
+            <label>Nueva Tarea</label>
+            <input id="inputNombreTarea" required/>
+            <button>Agregar</button>
+        </fieldset>
+    </form>
+
+    <div id="mod" data-win-control="WinJS.UI.Flyout">
+        <form id="fEdicion">
+            <fieldset>
+                <label>Texto Nuevo</label>
+                <input id="newText" required/>
+                <button id="faceptar">Aceptar</button>
+            </fieldset>
+        </form>
+    </div>
+
+    <button id="botonBorrarTodas">Borrar Todas</button>
+    <button id="botonBorrar">Borrar</button>
+    <button id="botonEditar">Editar</button>
+
+</body>
+</html>

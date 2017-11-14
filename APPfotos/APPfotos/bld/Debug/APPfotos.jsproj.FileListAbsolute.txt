@@ -1,0 +1,15 @@
+c:\users\sabdi\documents\visual studio 2013\Projects\APPfotos\APPfotos\bin\Debug\ReverseMap\resources.pri
+c:\users\sabdi\documents\visual studio 2013\Projects\APPfotos\APPfotos\bin\Debug\AppxManifest.xml
+c:\users\sabdi\documents\visual studio 2013\Projects\APPfotos\APPfotos\bin\Debug\APPfotos.build.appxrecipe
+c:\users\sabdi\documents\visual studio 2013\Projects\APPfotos\APPfotos\bld\Debug\priconfig.xml
+c:\users\sabdi\documents\visual studio 2013\Projects\APPfotos\APPfotos\bld\Debug\priconfig.xml.intermediate
+c:\users\sabdi\documents\visual studio 2013\Projects\APPfotos\APPfotos\bld\Debug\layout.resfiles
+c:\users\sabdi\documents\visual studio 2013\Projects\APPfotos\APPfotos\bld\Debug\layout.resfiles.intermediate
+c:\users\sabdi\documents\visual studio 2013\Projects\APPfotos\APPfotos\bld\Debug\resources.resfiles
+c:\users\sabdi\documents\visual studio 2013\Projects\APPfotos\APPfotos\bld\Debug\resources.resfiles.intermediate
+c:\users\sabdi\documents\visual studio 2013\Projects\APPfotos\APPfotos\bld\Debug\pri.resfiles
+c:\users\sabdi\documents\visual studio 2013\Projects\APPfotos\APPfotos\bld\Debug\pri.resfiles.intermediate
+c:\users\sabdi\documents\visual studio 2013\Projects\APPfotos\APPfotos\bld\Debug\qualifiers.txt
+c:\users\sabdi\documents\visual studio 2013\Projects\APPfotos\APPfotos\bld\Debug\qualifiers.txt.intermediate
+c:\users\sabdi\documents\visual studio 2013\Projects\APPfotos\APPfotos\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\sabdi\documents\visual studio 2013\Projects\APPfotos\APPfotos\bld\Debug\ProjectArchitectures.txt

@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Practica C y V</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.2.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.2.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.2.0/js/ui.js"></script>
+
+    <!-- Menus references -->
+    <link href="/css/default.css" rel="stylesheet" />
+    <script src="/js/default.js"></script>
+</head>
+<body>
+    <!-- Control Menu -->
+    <div id="mostrar" data-win-control="WinJS.UI.Menu">
+        <button data-win-control="WinJS.UI.MenuCommand"
+                data-win-options="{id: 'comandoConsonantes',
+                                    label: 'Consonantes',
+                                    type: 'button'}"></button>
+
+        <button data-win-control="WinJS.UI.MenuCommand"
+                data-win-options="{id: 'comandoVocales',
+                                    label: 'Vocales',
+                                    type: 'button'}"></button>
+
+        <button data-win-control="WinJS.UI.MenuCommand"
+                data-win-options="{id: 'comandoNumeros',
+                                    label: 'Numeros',
+                                    type: 'button'}"></button>
+    </div>
+
+    <!-- Boton para abrir Flyout -->
+    <center><button id="boton">Mostrar</button></center>
+
+    <!-- Texto a Cambiar -->
+    <form data-win-bind="onsubmit:submit">
+        <!--Campo de Texto-->
+        <center>
+            <div>
+                <label>
+                    <br />
+                    Texto:
+                    <input id="texto" required />
+                </label>
+            </div>
+            <div>
+                <br />
+                Texto Cambiado:
+                <p id="texto2" data-win-bind="innerText:texto2"></p>
+            </div>
+        </center>
+    </form>
+</body>
+</html>

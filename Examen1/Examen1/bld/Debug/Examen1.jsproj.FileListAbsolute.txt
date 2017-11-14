@@ -1,0 +1,15 @@
+c:\users\sabdi\documents\visual studio 2013\Projects\Examen1\Examen1\bin\Debug\ReverseMap\resources.pri
+c:\users\sabdi\documents\visual studio 2013\Projects\Examen1\Examen1\bin\Debug\AppxManifest.xml
+c:\users\sabdi\documents\visual studio 2013\Projects\Examen1\Examen1\bin\Debug\Examen1.build.appxrecipe
+c:\users\sabdi\documents\visual studio 2013\Projects\Examen1\Examen1\bld\Debug\priconfig.xml
+c:\users\sabdi\documents\visual studio 2013\Projects\Examen1\Examen1\bld\Debug\priconfig.xml.intermediate
+c:\users\sabdi\documents\visual studio 2013\Projects\Examen1\Examen1\bld\Debug\layout.resfiles
+c:\users\sabdi\documents\visual studio 2013\Projects\Examen1\Examen1\bld\Debug\layout.resfiles.intermediate
+c:\users\sabdi\documents\visual studio 2013\Projects\Examen1\Examen1\bld\Debug\resources.resfiles
+c:\users\sabdi\documents\visual studio 2013\Projects\Examen1\Examen1\bld\Debug\resources.resfiles.intermediate
+c:\users\sabdi\documents\visual studio 2013\Projects\Examen1\Examen1\bld\Debug\pri.resfiles
+c:\users\sabdi\documents\visual studio 2013\Projects\Examen1\Examen1\bld\Debug\pri.resfiles.intermediate
+c:\users\sabdi\documents\visual studio 2013\Projects\Examen1\Examen1\bld\Debug\qualifiers.txt
+c:\users\sabdi\documents\visual studio 2013\Projects\Examen1\Examen1\bld\Debug\qualifiers.txt.intermediate
+c:\users\sabdi\documents\visual studio 2013\Projects\Examen1\Examen1\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\sabdi\documents\visual studio 2013\Projects\Examen1\Examen1\bld\Debug\ProjectArchitectures.txt

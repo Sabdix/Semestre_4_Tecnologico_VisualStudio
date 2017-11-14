@@ -1,0 +1,15 @@
+C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\MiniCalculadora\MiniCalculadora\bin\Debug\ReverseMap\resources.pri
+C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\MiniCalculadora\MiniCalculadora\bin\Debug\AppxManifest.xml
+C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\MiniCalculadora\MiniCalculadora\bin\Debug\MiniCalculadora.build.appxrecipe
+C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\MiniCalculadora\MiniCalculadora\bld\Debug\priconfig.xml
+C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\MiniCalculadora\MiniCalculadora\bld\Debug\priconfig.xml.intermediate
+C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\MiniCalculadora\MiniCalculadora\bld\Debug\layout.resfiles
+C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\MiniCalculadora\MiniCalculadora\bld\Debug\layout.resfiles.intermediate
+C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\MiniCalculadora\MiniCalculadora\bld\Debug\resources.resfiles
+C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\MiniCalculadora\MiniCalculadora\bld\Debug\resources.resfiles.intermediate
+C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\MiniCalculadora\MiniCalculadora\bld\Debug\pri.resfiles
+C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\MiniCalculadora\MiniCalculadora\bld\Debug\pri.resfiles.intermediate
+C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\MiniCalculadora\MiniCalculadora\bld\Debug\qualifiers.txt
+C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\MiniCalculadora\MiniCalculadora\bld\Debug\qualifiers.txt.intermediate
+C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\MiniCalculadora\MiniCalculadora\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\MiniCalculadora\MiniCalculadora\bld\Debug\ProjectArchitectures.txt

@@ -1,0 +1,9 @@
+﻿body{
+    #imgFoto{
+    display:block;
+    margin: 15px auto;
+    border: 10px solid white;
+    max-width: 90%;
+    max-height: 90%;
+    }
+}

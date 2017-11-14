@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Operaciones</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.2.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.2.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.2.0/js/ui.js"></script>
+
+    <!-- Operaciones references -->
+    <link href="/css/default.css" rel="stylesheet" />
+    <script src="/js/default.js"></script>
+</head>
+<body>
+    <center>
+        <div>
+            <label>
+                Numero A:
+                <input id="A" type="number" required />
+            </label>
+        </div>
+        <br />
+        <div>
+            <label>
+                Numero B:
+                <input id="B" type="number" required />
+            </label>
+        </div>
+        <br />
+        <div id="operaciones" data-win-control="WinJS.UI.Menu">
+            <button data-win-control="WinJS.UI.MenuCommand"
+                    data-win-options="{id: 'suma',
+                                       label:'Suma',
+                                       type:'button'}"></button>
+            <button data-win-control="WinJS.UI.MenuCommand"
+                    data-win-options="{id: 'resta',
+                                       label:'Resta',
+                                       type:'button'}"></button>
+            <button data-win-control="WinJS.UI.MenuCommand"
+                    data-win-options="{id: 'multiplicacion',
+                                       label:'Multiplicacion',
+                                       type:'button'}"></button>
+            <button data-win-control="WinJS.UI.MenuCommand"
+                    data-win-options="{id: 'division',
+                                       label:'Division',
+                                       type:'button'}"></button>
+        </div>
+        <!--Boton para abrir Menu-->
+        <button id="boton">Operacion</button>
+        <br />
+        <div id="resultado" data-win-control="WinJS.UI.Flyout">
+            <center><p id="R"></p></center>
+        </div>
+    </center>
+</body>
+</html>

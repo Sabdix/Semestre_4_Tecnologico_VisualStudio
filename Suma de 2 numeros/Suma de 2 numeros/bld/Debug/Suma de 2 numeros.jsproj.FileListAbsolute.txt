@@ -1,0 +1,15 @@
+C:\Users\Sabdi\Documents\Visual Studio 2013\Projects\Suma de 2 numeros\Suma de 2 numeros\bin\Debug\ReverseMap\resources.pri
+C:\Users\Sabdi\Documents\Visual Studio 2013\Projects\Suma de 2 numeros\Suma de 2 numeros\bin\Debug\AppxManifest.xml
+C:\Users\Sabdi\Documents\Visual Studio 2013\Projects\Suma de 2 numeros\Suma de 2 numeros\bin\Debug\Suma de 2 numeros.build.appxrecipe
+C:\Users\Sabdi\Documents\Visual Studio 2013\Projects\Suma de 2 numeros\Suma de 2 numeros\bld\Debug\priconfig.xml
+C:\Users\Sabdi\Documents\Visual Studio 2013\Projects\Suma de 2 numeros\Suma de 2 numeros\bld\Debug\priconfig.xml.intermediate
+C:\Users\Sabdi\Documents\Visual Studio 2013\Projects\Suma de 2 numeros\Suma de 2 numeros\bld\Debug\layout.resfiles
+C:\Users\Sabdi\Documents\Visual Studio 2013\Projects\Suma de 2 numeros\Suma de 2 numeros\bld\Debug\layout.resfiles.intermediate
+C:\Users\Sabdi\Documents\Visual Studio 2013\Projects\Suma de 2 numeros\Suma de 2 numeros\bld\Debug\resources.resfiles
+C:\Users\Sabdi\Documents\Visual Studio 2013\Projects\Suma de 2 numeros\Suma de 2 numeros\bld\Debug\resources.resfiles.intermediate
+C:\Users\Sabdi\Documents\Visual Studio 2013\Projects\Suma de 2 numeros\Suma de 2 numeros\bld\Debug\pri.resfiles
+C:\Users\Sabdi\Documents\Visual Studio 2013\Projects\Suma de 2 numeros\Suma de 2 numeros\bld\Debug\pri.resfiles.intermediate
+C:\Users\Sabdi\Documents\Visual Studio 2013\Projects\Suma de 2 numeros\Suma de 2 numeros\bld\Debug\qualifiers.txt
+C:\Users\Sabdi\Documents\Visual Studio 2013\Projects\Suma de 2 numeros\Suma de 2 numeros\bld\Debug\qualifiers.txt.intermediate
+C:\Users\Sabdi\Documents\Visual Studio 2013\Projects\Suma de 2 numeros\Suma de 2 numeros\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Sabdi\Documents\Visual Studio 2013\Projects\Suma de 2 numeros\Suma de 2 numeros\bld\Debug\ProjectArchitectures.txt

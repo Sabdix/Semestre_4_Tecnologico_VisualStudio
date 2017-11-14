@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Listas</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.2.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.2.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.2.0/js/ui.js"></script>
+
+    <!-- Listas references -->
+    <link href="/css/default.css" rel="stylesheet" />
+    <script src="/js/default.js"></script>
+</head>
+<body>
+    <!--La plantilla define la vista de la lista-->
+    <div id="plantilla" data-win-control="WinJS.Binding.Template">
+        <div class="producto">
+            <!--La informcacion se toma de Internet -->
+            <span data-win-bind="innerHTML:title.text WinJS.Binding.oneTime"></span>
+            <!-- Precio: <span data-win-bind="innerText:precio"></span> -->
+        </div>
+    </div>
+
+    <!--Define de donde se obtienen los datos de la lista-->
+    <div id="listaProductos" data-win-control="WinJS.UI.ListView" 
+         data-win-options="{itemTemplate:select('#plantilla')}">
+    </div>
+</body>
+</html>

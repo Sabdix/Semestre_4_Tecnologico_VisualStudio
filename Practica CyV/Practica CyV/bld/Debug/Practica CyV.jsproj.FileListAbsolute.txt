@@ -1,0 +1,15 @@
+C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\Practica CyV\Practica CyV\bin\Debug\ReverseMap\resources.pri
+C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\Practica CyV\Practica CyV\bin\Debug\AppxManifest.xml
+C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\Practica CyV\Practica CyV\bin\Debug\Practica CyV.build.appxrecipe
+C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\Practica CyV\Practica CyV\bld\Debug\priconfig.xml
+C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\Practica CyV\Practica CyV\bld\Debug\priconfig.xml.intermediate
+C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\Practica CyV\Practica CyV\bld\Debug\layout.resfiles
+C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\Practica CyV\Practica CyV\bld\Debug\layout.resfiles.intermediate
+C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\Practica CyV\Practica CyV\bld\Debug\resources.resfiles
+C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\Practica CyV\Practica CyV\bld\Debug\resources.resfiles.intermediate
+C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\Practica CyV\Practica CyV\bld\Debug\pri.resfiles
+C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\Practica CyV\Practica CyV\bld\Debug\pri.resfiles.intermediate
+C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\Practica CyV\Practica CyV\bld\Debug\qualifiers.txt
+C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\Practica CyV\Practica CyV\bld\Debug\qualifiers.txt.intermediate
+C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\Practica CyV\Practica CyV\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Sabdi\Dropbox\Escuela\4 Semestre\Programacion II\Visual\Practica CyV\Practica CyV\bld\Debug\ProjectArchitectures.txt
